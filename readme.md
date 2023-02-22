@@ -1,9 +1,10 @@
 <p align="center">
-  <br><br />
+  <br>
   <samp>
     🤗 Enable AI with One Click!
     <br />
     <br />  https://www.shouxieai.com 
+    <br />
     <br />
     <br />
   </samp>
