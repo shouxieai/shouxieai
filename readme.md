@@ -3,8 +3,8 @@
   <samp>
     🤗 Enable AI with One Click!
     <br />  The shouxieAI's official Bilbili （手写AI B站）：https://space.bilibili.com/1413433465
-    <br />  The CV教程：https://github.com/shouxieai/A-series-of-CV
-    <br />  The NLP教程：https://github.com/shouxieai/A-series-of-NLP
+    <br />  CV教程：https://github.com/shouxieai/A-series-of-CV
+    <br />  NLP教程：https://github.com/shouxieai/A-series-of-NLP
     <br />
     <br />
   </samp>
